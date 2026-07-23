@@ -26,7 +26,7 @@ This project serves as a central hub to present my work and provide easy access 
 
 ## 🌐 Live Demo
 
-https://haneefweb.netlify.app/
+Deployment : In Progress 
 
 ---
 
